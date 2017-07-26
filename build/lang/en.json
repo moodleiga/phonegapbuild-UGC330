@@ -590,7 +590,7 @@
     "mm.login.missinglastname": "Missing surname",
     "mm.login.mobileservicesnotenabled": "Mobile Services are not enabled in your site. Please, contact your Moodle site administrator if you think mobile access should be enabled.",
     "mm.login.newaccount": "New account",
-    "mm.login.newsitedescription": "Introduzca la URL de su sitio Moodle. Tenga en cuenta que podría no estar configurado para trabajar con esta aplicación.",
+    "mm.login.newsitedescription": "Introduzca la siguiente URL virtualidad.ugc.edu.co posteriormente seleccione el botón ingresar.",
     "mm.login.notloggedin": "You need to be logged in.",
     "mm.login.password": "Password",
     "mm.login.passwordrequired": "Password required",
