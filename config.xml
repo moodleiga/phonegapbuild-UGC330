@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "net.virtualidadugc30.mimoodle"
-        versionCode = "20180"
-        version   = "3.3.0">
-    <name>UGC Virtual</name>
+        id        = "appiga"
+        versionCode = "1"
+        version   = "1.0">
+    <name>Courses IGA</name>
 
     <description>
-        Aplicación móvil oficial para acceso de la plataforma de aulas virtuales de la Universidad Gran Colombia
+        IGA English Courses Official App
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Carlos Andres Rodriguez Gonzalez - Programador Ambientes Virtuales UGC - Sw@mi
+    <author href="http://courses.iga.edu" email="agonzalez@iga.edu">
+        Austin Gonzalez - IT Department
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
